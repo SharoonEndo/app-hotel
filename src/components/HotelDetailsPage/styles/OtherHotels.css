@@ -1,0 +1,11 @@
+.others__title {
+	padding-bottom: 1em;
+	font-size: 2em;
+	text-align: center;
+	color: #7340fe;
+}
+
+.others__container {
+	gap: 2em;
+	flex-wrap: wrap;
+}
